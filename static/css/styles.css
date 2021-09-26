@@ -1,0 +1,14 @@
+.header-style {
+  background-color: rgb(173,98,66);
+}
+
+.scrape-button-style {
+  background-color: burlywood;
+  box-shadow: none;
+  border: none;
+}
+
+.scrape-button-style:hover {
+  background-color: brown;
+  outline: black;
+}
